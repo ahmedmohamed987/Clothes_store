@@ -1,0 +1,14 @@
+*{
+    scroll-behavior: smooth;
+}
+#pro{
+    transition: 0.5s;
+}
+#pro:hover{
+    cursor: pointer;
+    box-shadow: 10px 10px 8px 10px rgb(110, 109, 109);
+}
+
+.pag{
+    margin-top: 50px;
+}
